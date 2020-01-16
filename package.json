@@ -1,0 +1,8 @@
+{
+  "name": "aws-nim",
+  "version": "0.0.1",
+  "description": "Serverless Framework Nim plugin template",
+  "devDependencies": {
+    "@epiphone/serverless-nim": "^0.0.2"
+  }
+}
